@@ -2,6 +2,8 @@
 
 Dean is a cuddly cream plush seal pet for Codex, with shiny black eyes, a tiny tan nose, and animated reactions for working, waiting, reviewing, celebrating, and more.
 
+Dean is the baby seal of Coco and Leo. He was born on October 2, 2024.
+
 ![Dean animation contact sheet](preview/contact-sheet.png)
 
 ## Install
